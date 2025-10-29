@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.4.1] - TBD
+
+### Added
+- Improved diff editor support: when running a batch file from the diff editor, the extension now detects which side (left/right) is currently focused and runs that specific file. Falls back to the modified (right) side if focus cannot be determined.
+
 ## [1.4.0] - 2025-06-22
 
 - Enable the run commands in the diff editor [#22](https://github.com/nils-soderman/vscode-batch-runner/issues/22)

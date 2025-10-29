@@ -3,7 +3,6 @@ import * as vscode from 'vscode';
 import * as execute from './execute';
 import * as batchArgs from './arguments';
 import * as utils from './utils';
-import * as vscode from 'vscode';
 
 
 /**

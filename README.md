@@ -48,6 +48,12 @@ Ways to run the batch file with administrator privileges:
 
 <br>
 
+## Diff Editor Support
+
+When viewing a batch file in the diff editor (comparing two versions), the extension will detect which side of the diff is currently focused and run that specific file. If focus cannot be determined, it defaults to the modified (right) side of the diff.
+
+<br>
+
 # Feedback, Bugs or Requests
 
 If you have any questions, feature requests or run into any bugs, don't hesitate to get in contact with me:
